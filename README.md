@@ -1,1 +1,1 @@
-# plastopol-detection-server
+# Plastopol Detection Server
